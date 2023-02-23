@@ -1,2 +1,5 @@
 # Spring-day-3
-Day - 3 projects
+# GET and POST APIs with JSON & Spring Boot 
+Overview:
+  To get and post the Employee details in API.
+
